@@ -1,0 +1,7 @@
+C:\Users\REDEYE\source\repos\First\First\bin\Debug\First.exe.config
+C:\Users\REDEYE\source\repos\First\First\bin\Debug\First.exe
+C:\Users\REDEYE\source\repos\First\First\bin\Debug\First.pdb
+C:\Users\REDEYE\source\repos\First\First\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+C:\Users\REDEYE\source\repos\First\First\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\REDEYE\source\repos\First\First\obj\Debug\First.exe
+C:\Users\REDEYE\source\repos\First\First\obj\Debug\First.pdb
